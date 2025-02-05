@@ -22,7 +22,7 @@
 
 - These are URLs for all the Wikis created by ZJU-China:
     > You can visit other team's Wiki by modifiying the LAST part of the URL
-    - 2024: <a href="https://2024.igem.wiki/zju-china" target="_blank">NveovioDye</a>
+    - 2024: <a href="https://2024.igem.wiki/zju-china" target="_blank">NeovioDye</a>
     - 2023: <a href="https://2023.igem.wiki/zju-china" target="_blank">Flora Sentinel</a>
     - 2022: <a href="https://2022.igem.wiki/zju-china" target="_blank">StoryLight</a>
     - 2021: <a href="https://2021.igem.org/Team:ZJU-China" target="_blank">ViruGuard</a>
